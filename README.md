@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Eu sou um desenvolvedor em formação, apaixonado por transformar ideias em código e criar soluções intuitivas. Com experiência prática tanto em back-end quanto em front-end, estou sempre em busca de novos desafios para crescer na área de tecnologia.
 
@@ -37,7 +37,7 @@ Mas a vida não é só código! Fora do ambiente de desenvolvimento, você prova
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### Habilidades e Ferramentas
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ Mas a vida não é só código! Fora do ambiente de desenvolvimento, você prova
 </table>
 
 ---
-### 🎓 Educação e Foco de Estudos
+###  Educação e Foco de Estudos
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual (Previsão de conclusão em 2027).
 - ☕ **Especialista Back-End Java**, cursando na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
@@ -75,7 +75,7 @@ Mas a vida não é só código! Fora do ambiente de desenvolvimento, você prova
 
 ---
 
-### 💼 Experiência Profissional
+###  Experiência Profissional
 
 **Analista de Desenvolvimento de Sistemas | Cast Informática S/A** (jan/2024 - mai/2024)
 - Atuei no desenvolvimento de soluções front-end utilizando Java e .NET.
@@ -83,7 +83,7 @@ Mas a vida não é só código! Fora do ambiente de desenvolvimento, você prova
 
 ---
 
-### ✨ Projetos em Destaque
+###  Projetos em Destaque
 
 📂 **Ferramenta de Fichas de RPG de Mesa**
 -   Um site para criar e gerenciar fichas de RPG de forma interativa e com foco total na experiência do usuário.
