@@ -30,6 +30,9 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 
 ---
 
+
+<img src="https://github.com/Mentus99/Mentus99/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake" />
+
 ### Habilidades e Ferramentas
 
 <div align="center">
