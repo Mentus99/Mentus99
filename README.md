@@ -62,7 +62,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 ---
 ### Educação e Foco de Estudos
 
-- **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual (previsão de conclusão em 2027).
+- **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual.
 - **Especialista Back-End Java**, cursando na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 - **Aprimorando o Front-End** com foco na criação de interfaces responsivas utilizando HTML, CSS, JavaScript e .NET.
 
@@ -70,7 +70,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 
 ### Experiência Profissional
 
-**Analista de Desenvolvimento de Sistemas | Cast Informática S/A** (jan/2024 - mai/2024)
+**Analista de Desenvolvimento de Sistemas | Cast Informática S/A**
 - Atuei no desenvolvimento de soluções front-end utilizando Java e .NET.
 - Fui responsável pela criação de interfaces responsivas com CSS e HTML, colaborando com equipes em diversos projetos.
 
