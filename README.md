@@ -93,5 +93,4 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 ---
 <div align="center">
 <p><img align="center" src="https://komarev.com/ghpvc/?username=Mentus99&color=ff0055&style=flat-square" alt="Contador de Visitas" /></p> 
-  <img src="https://github.com/Mentus99/Mentus99/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
+  <img src="
