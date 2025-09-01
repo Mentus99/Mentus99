@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=D61C4E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End+%26+Front-End;Estudante+de+Análise+e+Desenvolvimento;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=D61C4E&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full-stack;Estudante+de+Análise+e+Desenvolvimento" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -72,7 +72,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 
 ---
 
-### Experiência Professional
+### Experiência Profissional
 
 **Analista de Desenvolvimento de Sistemas | Cast Informática S/A** (jan/2024 - mai/2024)
 - Atuei no desenvolvimento de soluções front-end utilizando Java e .NET.
