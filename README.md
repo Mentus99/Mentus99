@@ -12,28 +12,21 @@
 </div>
 
 <h1 align="center">
-  Olá, eu sou o Gabriel Mendes 
+  Olá, eu sou o Gabriel Mendes
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mentus99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentus99&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentus99&theme=dracula&hide_border=true&layout=compact" />
 </div>
 
 ---
 
 ### Sobre Mim
 
-Eu sou um desenvolvedor em formação, apaixonado por transformar ideias em código e criar soluções intuitivas. Com experiência prática tanto em back-end quanto em front-end, estou sempre em busca de novos desafios para crescer na área de tecnologia.
+Sou um desenvolvedor em formação, apaixonado por transformar ideias em código e criar soluções intuitivas. Com experiência prática em back-end e front-end, estou sempre em busca de novos desafios para crescer na área de tecnologia.
 
-Mas a vida não é só código! Fora do ambiente de desenvolvimento, você provavelmente vai me encontrar:
-
-- 📚 Mergulhado em um bom livro.
-- 🎲 Rolando dados em uma campanha de RPG de mesa.
-- 🎮 Explorando mundos fantásticos nos games.
-- 🍳 Testando uma nova receita na cozinha.
+Fora do código, sou um grande apreciador de boas histórias, seja mergulhando em livros, explorando mundos fantásticos nos games ou rolando dados em uma campanha de RPG de mesa. Também gosto de me aventurar na cozinha como um hobby para relaxar.
 
 ---
 
@@ -67,15 +60,15 @@ Mas a vida não é só código! Fora do ambiente de desenvolvimento, você prova
 </table>
 
 ---
-###  Educação e Foco de Estudos
+### Educação e Foco de Estudos
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual (Previsão de conclusão em 2027).
-- ☕ **Especialista Back-End Java**, cursando na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
-- 🚀 **Aprimorando o Front-End** com foco na criação de interfaces responsivas utilizando HTML, CSS, JavaScript e .NET.
+- **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual (previsão de conclusão em 2027).
+- **Especialista Back-End Java**, cursando na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+- **Aprimorando o Front-End** com foco na criação de interfaces responsivas utilizando HTML, CSS, JavaScript e .NET.
 
 ---
 
-###  Experiência Profissional
+### Experiência Profissional
 
 **Analista de Desenvolvimento de Sistemas | Cast Informática S/A** (jan/2024 - mai/2024)
 - Atuei no desenvolvimento de soluções front-end utilizando Java e .NET.
@@ -83,13 +76,13 @@ Mas a vida não é só código! Fora do ambiente de desenvolvimento, você prova
 
 ---
 
-###  Projetos em Destaque
+### Projetos em Destaque
 
-📂 **Ferramenta de Fichas de RPG de Mesa**
+**Ferramenta de Fichas de RPG de Mesa**
 -   Um site para criar e gerenciar fichas de RPG de forma interativa e com foco total na experiência do usuário.
 -   **Tecnologias:** HTML, CSS e JavaScript.
 
-📂 **Módulo Tradutor para FoundryVTT**
+**Módulo Tradutor para FoundryVTT**
 -   Um módulo que criei para traduzir fichas de D&D 5e, proporcionando uma experiência de jogo mais imersiva para a comunidade brasileira.
 -   **Tecnologias:** Foco em automação com JavaScript e macros.
 
