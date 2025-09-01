@@ -16,6 +16,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=D61C4E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End+%26+Front-End;Estudante+de+Análise+e+Desenvolvimento;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
+</div>
+
 ---
 
 ### Sobre Mim
@@ -26,16 +30,11 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 
 ---
 
-### Visualização da Minha Jornada
+### Habilidades e Ferramentas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentus99&layout=compact&langs_count=7&theme=merko&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mentus99&theme=merko&hide_border=true" />
 </div>
-
----
-
-### Habilidades e Ferramentas
 
 <table>
   <tr>
@@ -73,7 +72,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 
 ---
 
-### Experiência Profissional
+### Experiência Professional
 
 **Analista de Desenvolvimento de Sistemas | Cast Informática S/A** (jan/2024 - mai/2024)
 - Atuei no desenvolvimento de soluções front-end utilizando Java e .NET.
