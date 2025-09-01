@@ -16,10 +16,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentus99&theme=dracula&hide_border=true&layout=compact" />
-</div>
-
 ---
 
 ### Sobre Mim
@@ -27,6 +23,15 @@
 Sou um desenvolvedor em formação, apaixonado por transformar ideias em código e criar soluções intuitivas. Com experiência prática em back-end e front-end, estou sempre em busca de novos desafios para crescer na área de tecnologia.
 
 Fora do código, sou um grande apreciador de boas histórias, seja mergulhando em livros, explorando mundos fantásticos nos games ou rolando dados em uma campanha de RPG de mesa. Também gosto de me aventurar na cozinha como um hobby para relaxar.
+
+---
+
+### Visualização da Minha Jornada
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mentus99&layout=compact&langs_count=7&theme=merko&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mentus99&theme=merko&hide_border=true" />
+</div>
 
 ---
 
@@ -62,7 +67,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 ---
 ### Educação e Foco de Estudos
 
-- **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual.
+- **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul Virtual (previsão de conclusão em 2027).
 - **Especialista Back-End Java**, cursando na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 - **Aprimorando o Front-End** com foco na criação de interfaces responsivas utilizando HTML, CSS, JavaScript e .NET.
 
@@ -70,7 +75,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 
 ### Experiência Profissional
 
-**Analista de Desenvolvimento de Sistemas | Cast Informática S/A**
+**Analista de Desenvolvimento de Sistemas | Cast Informática S/A** (jan/2024 - mai/2024)
 - Atuei no desenvolvimento de soluções front-end utilizando Java e .NET.
 - Fui responsável pela criação de interfaces responsivas com CSS e HTML, colaborando com equipes em diversos projetos.
 
@@ -87,3 +92,7 @@ Fora do código, sou um grande apreciador de boas histórias, seja mergulhando e
 -   **Tecnologias:** Foco em automação com JavaScript e macros.
 
 ---
+<div align="center">
+<p><img align="center" src="https://komarev.com/ghpvc/?username=Mentus99&color=ff0055&style=flat-square" alt="Contador de Visitas" /></p> 
+  <img src="https://github.com/Mentus99/Mentus99/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
